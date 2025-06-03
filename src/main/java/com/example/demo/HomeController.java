@@ -47,7 +47,7 @@ public class HomeController {
                <body>
                    <div class="container">
                        <h1>✅ Application is up</h1>
-                       <p>Your Java Spring Boot service is running smoothly 😭 😭 🚀</p>
+                       <p>Your Java Spring Boot service is running 🚀</p>
                    </div>
                </body>
                </html>
